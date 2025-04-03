@@ -1,0 +1,12 @@
+What is the capital of France?-Paris
+What is the capital of the UK?-London
+What is the capital of Spain?-Madrid
+What is the capital of Italy?-Rome
+What is the capital of Germany?-Berlin
+What is the capital of the Netherlands?-Amsterdam
+What is the capital of Belgium?-Brussels
+What is the capital of Poland?-Warsaw
+What is the capital of the Czech Republic?-Prague
+What is the capital of Austria?-Vienna
+What is the capital of Switzerland?-Bern
+What is the capital of Hungary?-Budapest
